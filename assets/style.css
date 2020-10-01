@@ -1,16 +1,26 @@
-header{
-  background-color: darkgoldenrod;  
+.bd-bg{
+    background: url(veg.jpg) top center no-repeat;
+    background-size: cover;
+    
+}
+
+
+.cntctfnt{
+    font-size: 100%;
 }
 nav{
     padding: 2rem;
 }
 li{
-    background-color: coral;
-    color: antiquewhite;
+    background-color: rgb(165, 12, 7);
 }
 li a{
     color: antiquewhite;
 }
 li a:hover{
     background-color: black;
+}
+
+main{
+    height: 100%;
 }
