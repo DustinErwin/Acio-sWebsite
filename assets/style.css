@@ -1,0 +1,16 @@
+header{
+  background-color: darkgoldenrod;  
+}
+nav{
+    padding: 2rem;
+}
+li{
+    background-color: coral;
+    color: antiquewhite;
+}
+li a{
+    color: antiquewhite;
+}
+li a:hover{
+    background-color: black;
+}
